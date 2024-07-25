@@ -18,4 +18,4 @@ Migrar a infraestrutura de TI da Empresa X para a nuvem, implementando uma solu√
 
 
  ## Arquitetura montada
-![Diagrama AWS](https://github.com/GabrielleMFerreira/EDN_ArquiteturaAWS.git)
+![Diagrama AWS](file:///C:/Users/Gabi/Documents/Arquitetura%20de%20Migra%C3%A7%C3%A3o%20AWS.jpg)
