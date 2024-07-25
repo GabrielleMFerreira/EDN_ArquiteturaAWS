@@ -1,4 +1,4 @@
-# Planejamento de Migração para AWS -
+# Planejamento de Migração para AWS 
 
 ## Visão Geral do Projeto
 
